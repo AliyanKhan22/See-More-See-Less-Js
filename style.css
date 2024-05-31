@@ -1,0 +1,33 @@
+*
+{
+  margin: 0;
+  Background:linear-gradient(to right,#96b2f9f2,#fff203);
+}
+#see-more-btn {
+    background-color: #ffea00;
+    color: white;
+    border: none;
+    padding: 10px 20px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 20px;
+    cursor: pointer;
+    border-radius: 25px;
+    box-shadow: 10px 10px 10px black;
+  }
+  
+  #see-more-btn:hover {
+    background-color: #000000;
+    color: rgb(233, 233, 233);
+    
+  }
+  .content
+  {
+   text-align: center;
+   margin-top: 150px;
+   font-size: 35px; 
+   color: rgb(102, 26, 152);
+   text-shadow: 2px 1px 2px black;
+   font-weight: bold;
+  }
